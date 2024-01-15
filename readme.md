@@ -17,7 +17,7 @@
 [Dart Pad](https://dartpad.dev/).
 
 ```powershell
-dart .\src\01-dart-primer-2.dart
+powershell: dart .\src\01-dart-primer-2.dart
 ```
 
 ## Contributing
